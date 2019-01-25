@@ -1,0 +1,6 @@
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\SayHello\bin\Release\SayHello.XML
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\SayHello\bin\Release\SayHello.dll
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\SayHello\bin\Release\SayHello.pdb
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\SayHello\obj\Release\SayHello.dll
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\SayHello\obj\Release\SayHello.pdb
+C:\Users\sadrak\documents\visual studio 2015\Projects\APITest\SayHello\obj\Release\SayHello.csprojResolveAssemblyReference.cache

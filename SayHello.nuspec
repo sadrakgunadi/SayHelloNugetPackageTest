@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SayHello.Test</id>
+    <version>1.1</version>
+    <title>Say Hello Packages</title>
+    <authors>Sadrak Gunadi</authors>
+    <owners>Sadrak Gunadi</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Say Hello for test NuGet Packages</description>
+    <releaseNotes>Say Hello for test NuGet Packages V 1.0</releaseNotes>
+    <copyright>Copyright 2019. Sadrak Gunadi</copyright>
+    <tags>hello sadrak</tags>
+	<!-- <dependencies> -->
+		<!-- <group targetFramework="uap"> -->
+			<!-- <dependency id="Newtonsoft.Json" version="8.0.3" /> -->
+		<!-- </group> -->
+	<!-- </dependencies> -->
+  </metadata>
+  <files>
+    <file src="bin\Release\SayHello.dll" target="lib\netstandard1.3\SayHello.dll" />
+	<file src="bin\Release\SayHello.xml" target="lib\netstandard1.3\SayHello.xml" />
+	<file src="readme.txt" target="" />
+	<!-- <file src="bin\Release\SayHello.dll" target="lib\net46\SayHello.dll" /> -->
+    <!-- <file src="bin\Release\SayHello.xml" target="lib\net46\SayHello.xml" /> -->
+  </files>
+</package>
